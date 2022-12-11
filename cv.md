@@ -19,28 +19,28 @@ Experienced in Software testing, data bases, api testing, agile methodolygy, bug
 - ### **Hosting service:**
     _GitHub_
 ## **Sofrware testing and agile methodology skills:**
-- ## **Data base:**
+- ### **Data base:**
     _PostgreSQL, My SQL, Microsoft SQL_  
-- ## **API testing:**
+- ### **API testing:**
     _Swagger, Postman, DevTools_
-- ## **Bug tracking systems:**  
+- ### **Bug tracking systems:**  
     _Jira, Testrail_
-- ## **Version control systems:**
+- ### **Version control systems:**
     _Git, Jenkins_
-- ## **Virtual machines:**
+- ### **Virtual machines:**
     _VirtualBox, RDP_
-- ## **Robotic process automation:**
+- ### **Robotic process automation:**
     _Power Automate, UiPath Orchestrator, .Net Automatic Service_
-- ## **Software package delivering:**
+- ### **Software package delivering:**
     _Docker_
-- ## **Knowledge transfer:**
+- ### **Knowledge transfer:**
     _Confluence, GitLab_
-- ## **Operating systems:**
+- ### **Operating systems:**
     _Windows, Linux, MacOS, Android, iOS_
-- ## **Proxy server:**
+- ### **Proxy server:**
     _Charles proxy_
 # Work experience 
-## **EPAM Systems, Grodno - Software Testing Engineer**
+### **EPAM Systems, Grodno - Software Testing Engineer**
 **_October, 2021 – May, 2022_**  
 Have work experience in to 2 projects, responsible for 3 streams  
 Have worked with highly qualified engineers and managers  
